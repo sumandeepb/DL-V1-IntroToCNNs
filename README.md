@@ -1,10 +1,21 @@
 # DL-V1-IntroToCNNs
-Tutorials for Introduction to Convolutional Neural Networks
+Notebooks for Introduction to Convolutional Neural Networks
 
 The module is part of MastAI ki paathSHALA course
 
 ## Videos of Live Sessions
 * [TensorFlow 2 Tutorial](https://www.youtube.com/watch?v=M5cGJV-cKmE), May 23, 2020
+  - TF2-BasicOperations.ipynb
+  - TF2-LinearRegression.ipynb
+  - TF2-LogisticRegression.ipynb
+  - TF2-NeuralNetworks.ipynb
+* [Introduction to CNNs Lecture](https://www.youtube.com/watch?v=n0egnMeW4Xk), May 25, 2020
+  - Introduction to CNNs.pdf
+* [Image Classification using CNNs Tutorial](https://www.youtube.com/watch?v=ucV1TbhoueM), May 28, 2020
+  - LeNet-MNIST.ipynb
+  - LeNet-FashionMNIST.ipynb
+  - LeNet-CIFAR10.ipynb
+  - CatsVsDogs.ipynb
 
 The content is released under MIT License as specified in the LICENSE file
 
