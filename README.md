@@ -17,12 +17,6 @@ The module is part of MastAI ki paathSHALA course
   - LeNet-CIFAR10.ipynb
   - CatsVsDogs.ipynb
 
-The content is released under MIT License as specified in the LICENSE file
-
-Copyleft (&#127279;) 2020 Sumandeep Banerjee, sumandeep.banerjee@gmail.com
-
-https://www.linkedin.com/in/sumandeep-banerjee-1436a17/
-
 ## MastAI ki paathSHALA
 Have fun Staying Home And Learning AI
 
@@ -39,3 +33,9 @@ A course on Data Science, Machine Learning, and Deep Learning, Summer 2020
 * [Official Usage Guide](https://www.tensorflow.org/guide)
 * [Get Started in Deep Learning With tf.keras](https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-keras/)
 * [Useful Learning Examples](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2)
+
+The content is released under MIT License as specified in the LICENSE file
+
+Copyleft (&#127279;) 2020 Sumandeep Banerjee, sumandeep.banerjee@gmail.com
+
+https://www.linkedin.com/in/sumandeep-banerjee-1436a17/
